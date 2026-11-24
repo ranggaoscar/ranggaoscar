@@ -34,6 +34,7 @@ My background is marketing, not software engineering. I decide what a tool needs
   <a href="https://github.com/ranggaoscar/rockfoundry"><img src="assets/project-rockfoundry.svg" width="49%" alt="Rock Foundry: project memory for builders who work with AI agents. Hermes does the work, Rock Foundry remembers it. Python."></a>
   <a href="https://github.com/ranggaoscar/hermes-salespilot"><img src="assets/project-hermes-salespilot.svg" width="49%" alt="SalesPilot for Hermes: finds leads, drafts outreach, and tracks replies. Nothing is sent without your approval. Python."></a>
   <a href="https://github.com/ranggaoscar/ideacut"><img src="assets/project-ideacut.svg" width="49%" alt="IDEA CUT: turns conversations, screenshots, and screen recordings into editable product demos. JavaScript."></a>
+  <a href="https://github.com/ranggaoscar/kanvas-studio"><img src="assets/project-kanvas-studio.svg" width="49%" alt="Kanvas Studio: a local design engine driven by AI agents over MCP. Watch your agent draw live, then edit anything yourself. JavaScript."></a>
 </p>
 
 <br>
